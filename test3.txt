@@ -1,9 +1,0 @@
-HELLOOO............!!!!!!!!!!!!!!!
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 335 bytes | 335.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/VigneshS003/Erroe-emc.git
-   79e2a61..125257f  main -> main
